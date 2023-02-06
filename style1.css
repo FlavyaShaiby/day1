@@ -1,0 +1,41 @@
+.box{
+ color:blue;
+ margin:200px;
+ padding:200px;
+ border:2px;
+border-style:dotted;
+padding:50px 0px;
+display:flex;
+justify-content: center;
+}
+.boxx{
+    word-spacing:0cqmin;
+    color:red;
+ margin:50px;
+ padding:50px;
+ border:2px;
+border-style:hidden;
+padding:50px 0px;
+display:flex;
+justify-content: center;
+}
+.hey{
+    color:rgb(255, 234, 0);
+    margin:50px;
+    padding:50px;
+    border:2px;
+   border-style:hidden;
+   padding:50px 0px;
+   display:flex;
+   justify-content: center;
+}
+.contact{
+    color:rgb(0, 255, 60);
+    margin:50px;
+    padding:50px;
+    border:2px;
+   border-style:hidden;
+   padding:50px 0px;
+   display:flex;
+   justify-content: center;
+}
